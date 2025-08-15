@@ -1,0 +1,9 @@
+node_modules
+.env
+
+/dist
+server/dist/main.js
+server/dist/config/db.js
+server/dist/routes/transaction.route.js
+server/dist/rateLimiter.js
+server/dist/config/upstash.js
